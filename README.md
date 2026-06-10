@@ -2,4 +2,4 @@
 Documentação do Projeto FABIN26
 
 
-[Como usar o NeuroSky Monitor] (README_NeuroSky_Monitor.md)
+[Como usar o NeuroSky Monitor](README_NeuroSky_Monitor.md)
